@@ -1,0 +1,20 @@
+
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Spark Stone</title>
+  <style>html,body{margin:0;background:#0e0f11}</style>
+</head>
+<body>
+  <iframe
+    src="/content/49a43b2931bb0975bbe2b093fd3c631715185867f8f5fec1e349f23770eee21ai0#seed=3c751fd84ff6c226acd88808cdf020aa8b5d32701e069bccda175ad0921d4972&type=op_return&palette=basalt&shape=rhombus&w=-1.0&g=0.0&stars=6&spark=sp1pgss83xn26m8em9e2ltajprmxzavhhg5jkqfupvf7s6g5tjexwdhz7gk4hauxw"
+    style="border:0;width:100vw;height:100vh">
+  </iframe>
+
+  <script type="application/json" id="metadata">
+    {"Seed":"3c751fd84ff6c226acd88808cdf020aa8b5d32701e069bccda175ad0921d4972","TX type":"op_return","Gamma":"basalt","Stone":"rhombus","Lightnings":"-1.0","Glitch":"0.0","Sparks":"6","Spark Address":"sp1pgss83xn26m8em9e2ltajprmxzavhhg5jkqfupvf7s6g5tjexwdhz7gk4hauxw"}
+  </script>
+</body>
+</html>

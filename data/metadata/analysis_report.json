@@ -1,0 +1,113 @@
+{
+  "summary": {
+    "total_records": 165,
+    "unique_inscriptions": 120
+  },
+  "content_types": {
+    "image/png": {
+      "count": 40,
+      "total_bytes": 2361740,
+      "examples": [
+        108059415,
+        108033293,
+        108065778
+      ]
+    },
+    "image/webp": {
+      "count": 40,
+      "total_bytes": 3723624,
+      "examples": [
+        108052865,
+        108059598,
+        108075218
+      ]
+    },
+    "image/gif": {
+      "count": 30,
+      "total_bytes": 3718492,
+      "examples": [
+        108024612,
+        108010547,
+        108009757
+      ]
+    },
+    "text/plain": {
+      "count": 30,
+      "total_bytes": 1680,
+      "examples": [
+        108101167,
+        108101166,
+        108101165
+      ]
+    },
+    "text/html": {
+      "count": 8,
+      "total_bytes": 1712,
+      "examples": [
+        108098633,
+        108098558,
+        108099187
+      ]
+    },
+    "text/html;charset=utf-8": {
+      "count": 17,
+      "total_bytes": 14973,
+      "examples": [
+        108098536,
+        108099182,
+        108099182
+      ]
+    }
+  },
+  "file_sizes": {
+    "min": 56,
+    "max": 389120,
+    "median": 10742,
+    "mean": 59528.61212121212,
+    "total_bytes": 9822221,
+    "total_mb": 9.367199897766113,
+    "size_distribution": {
+      "<1KB": 62,
+      "1-10KB": 20,
+      "10-100KB": 57,
+      "100KB-1MB": 26,
+      ">1MB": 0
+    }
+  },
+  "inscription_numbers": {
+    "earliest": 107218582,
+    "latest": 108101167,
+    "range": 882585,
+    "count": 165
+  },
+  "duplicates": {
+    "unique_content": 90,
+    "duplicate_groups": 39,
+    "duplicate_examples": {
+      "2b21488356b6f75d": [
+        108059415,
+        108059415
+      ],
+      "d321c3c130eb1d16": [
+        108033293,
+        108033293
+      ],
+      "13ed88aa36dd1d32": [
+        108065778,
+        108065778
+      ],
+      "fac13779ae24989c": [
+        108038504,
+        108038504
+      ],
+      "8b4877800f6489f7": [
+        108035423,
+        108035423
+      ]
+    }
+  },
+  "text_analysis": {
+    "count": 55,
+    "samples": []
+  }
+}
