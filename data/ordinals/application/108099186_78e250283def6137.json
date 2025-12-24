@@ -1,0 +1,78 @@
+{
+  "p": "sparkle",
+  "op": "nft",
+  "meta": {
+    "name": "DARKITA #1",
+    "collection": "DARKITA Collection",
+    "description": "DARKITA #1 - A recursive Ordinals NFT using Sparkle Protocol (SIP-3) for efficient on-chain storage. This NFT composites 6 trait layers inscribed as parent inscriptions, reducing costs by 99% compared to traditional methods.",
+    "edition": 1,
+    "compiler": "DARKITA Generator Ultra",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Bitcoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Darkita"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "Moon_Stars"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bite_Fangs"
+      },
+      {
+        "trait_type": "Ears",
+        "value": "Signals"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bolt_Strikes"
+      }
+    ]
+  },
+  "parent": "574ad9712d0cb2827e1b2f7e8ca7c681b5ac1bb173842626eb1c02a4935f121di0",
+  "traits": [
+    {
+      "id": "49b25f3eba87d5f250a58f6410c1b4c7dfed5fa8b3d4ff42ede8ae378e13e83fi0",
+      "layer": 0,
+      "trait_type": "Background",
+      "value": "Bitcoin"
+    },
+    {
+      "id": "1a5d6cf8d2141eed779b13c0ed7327487593933f711eb7825ef263faa6714c25i0",
+      "layer": 1,
+      "trait_type": "Body",
+      "value": "Darkita"
+    },
+    {
+      "id": "307219fadf170cbcb74425aec75b4f7bcccbb42507146a2abdd77b0b987ea78ai1",
+      "layer": 2,
+      "trait_type": "Neck",
+      "value": "Moon_Stars"
+    },
+    {
+      "id": "7919d62dcb0644a2c172b7e4577cca3687a246ea6d887d9268e887d4b68a2bbfi11",
+      "layer": 3,
+      "trait_type": "Mouth",
+      "value": "Bite_Fangs"
+    },
+    {
+      "id": "29957744ed11be62dd0b2996d01788ddf30b514a23d34921b07e7819fe419a0bi0",
+      "layer": 4,
+      "trait_type": "Ears",
+      "value": "Signals"
+    },
+    {
+      "id": "3081a68897b8a0430bca08ca2c3f421b55cfe7f27a48adcd59fa6288fc3f6d20i0",
+      "layer": 5,
+      "trait_type": "Eyes",
+      "value": "Bolt_Strikes"
+    }
+  ],
+  "render": "3600f583b27e1630522905783f89ac2a182bef4335982e1e79c7bcb568ff1f26i0",
+  "render_type": "svg"
+}

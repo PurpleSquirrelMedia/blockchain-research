@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 800 800">
+  <!--
+  
+  ╔═╗╔═╗╔╗╔╔═╗╦═╗╔═╗╦    ╔═╗╔╦╗╔╦╗╦╔═╗╔═╗╦╔═╗╔╗╔
+  ║ ╦║╣ ║║║║╣ ╠╦╝╠═╣║    ╠═╣ ║║║║║║╚═╗╚═╗║║ ║║║║
+  ╚═╝╚═╝╝╚╝╚═╝╩╚═╩ ╩╩═╝  ╩ ╩═╩╝╩ ╩╩╚═╝╚═╝╩╚═╝╝╚╝
+
+  Ticker: $GA
+  Symbol: ∀
+
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  General Admission has no rights, uses, purpose, attributes, or functionalities, express or implied.
+  
+  General Admission has no inherent value, and there is no guarantee or representation of liquidity. 
+  
+  Any value for General Admission is driven solely by market demand and speculation.
+  
+  General Admission is intended for entertainment, social interaction, and cultural purposes only.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  
+  ART ON BITCOIN IS FOR EVERYONE
+
+  -->
+  <path d="M0 0h800v800H0z" style="fill:#131313" />
+  <path
+    d="M59.3 555.6h185.1v59H59.3v126.1h311.2V59.3H59.3v496.3Zm126.1-370.2h59v244.1h-59V185.4ZM429.5 59.3v126.1h185.1v59H429.5v496.3h311.2V59.3H429.5Zm185.1 555.3h-59V370.5h59v244.1Z"
+    style="fill:#f5f5f5" />
+</svg>

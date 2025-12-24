@@ -1,0 +1,67 @@
+[
+  {
+    "id": "37f287bc5cfd21f9fe816ca47c4c2645fe4f4fe916a9eece7ea1a11dc5428135i0",
+    "inscription_number": 104063188,
+    "content_type": "video/mp4",
+    "chain": "bitcoin",
+    "content_hash": "27fb4c51b42db368",
+    "file_path": "/Volumes/Virtual Server/Projects/blockchain-research/data/training/video/104063188_27fb4c51b42db368.bin",
+    "image_base64": null,
+    "text_content": null,
+    "is_recursive": false,
+    "is_brc20": false,
+    "protocol": null
+  },
+  {
+    "id": "7d927b745b00000374c094ef87400aeb999d0dc4e0c7a4e6405fc7cc21d55c32i0",
+    "inscription_number": 104063187,
+    "content_type": "video/mp4",
+    "chain": "bitcoin",
+    "content_hash": "5b3be83ac22facbb",
+    "file_path": "/Volumes/Virtual Server/Projects/blockchain-research/data/training/video/104063187_5b3be83ac22facbb.bin",
+    "image_base64": null,
+    "text_content": null,
+    "is_recursive": false,
+    "is_brc20": false,
+    "protocol": null
+  },
+  {
+    "id": "a46cc99efa4d935b4ea74c5a69e57e11469976d1696db3c23448a6dafc6f1d14i0",
+    "inscription_number": 104063186,
+    "content_type": "video/mp4",
+    "chain": "bitcoin",
+    "content_hash": "088823a802a24f02",
+    "file_path": "/Volumes/Virtual Server/Projects/blockchain-research/data/training/video/104063186_088823a802a24f02.bin",
+    "image_base64": null,
+    "text_content": null,
+    "is_recursive": false,
+    "is_brc20": false,
+    "protocol": null
+  },
+  {
+    "id": "2eff0217d17ab34807ad275fe154f48b59dfc14bf219126921025f5f7948e94bi0",
+    "inscription_number": 104051443,
+    "content_type": "video/mp4",
+    "chain": "bitcoin",
+    "content_hash": "27fb4c51b42db368",
+    "file_path": "/Volumes/Virtual Server/Projects/blockchain-research/data/training/video/104051443_27fb4c51b42db368.bin",
+    "image_base64": null,
+    "text_content": null,
+    "is_recursive": false,
+    "is_brc20": false,
+    "protocol": null
+  },
+  {
+    "id": "23dac5db4336481d93ce810cb5732f6e50b9c4b011e53cc9f95fc31b69b7bccci0",
+    "inscription_number": 104051442,
+    "content_type": "video/mp4",
+    "chain": "bitcoin",
+    "content_hash": "5b3be83ac22facbb",
+    "file_path": "/Volumes/Virtual Server/Projects/blockchain-research/data/training/video/104051442_5b3be83ac22facbb.bin",
+    "image_base64": null,
+    "text_content": null,
+    "is_recursive": false,
+    "is_brc20": false,
+    "protocol": null
+  }
+]

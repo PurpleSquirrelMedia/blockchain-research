@@ -1,0 +1,21 @@
+{
+  "total_records": 185,
+  "by_content_type": {
+    "image/png": 30,
+    "image/webp": 30,
+    "image/gif": 20,
+    "text/plain": 20,
+    "text/html": 5,
+    "text/html;charset=utf-8": 15,
+    "image/svg+xml": 25,
+    "audio/mpeg": 10,
+    "application/json": 25,
+    "video/mp4": 5
+  },
+  "by_protocol": {
+    "brc-20": 34,
+    "sparkle": 1
+  },
+  "recursive_count": 37,
+  "brc20_count": 34
+}
