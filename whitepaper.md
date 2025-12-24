@@ -251,14 +251,14 @@ Blockchain data has its own biases:
 ## 7. Implementation
 
 Reference implementation available at:
-- Repository: [To be published]
-- Data toolkit: `bitcoin_apis.py`
+- Repository: https://github.com/PurpleSquirrelMedia/blockchain-research
+- Data toolkit: `bitcoin_apis.py`, `multichain_apis.py`
 - Collector: `data_collector.py`
 
 ### 7.1 Quick Start
 
 ```bash
-git clone [repo]
+git clone https://github.com/PurpleSquirrelMedia/blockchain-research.git
 cd blockchain-research
 python3 bitcoin_apis.py  # Test APIs
 python3 data_collector.py  # Collect sample
